@@ -43,3 +43,6 @@ def itr(name):
             print(f"🟢 {name} is exempt from ITR. Salary: ₹{salary}")
     else:
         something_not_ok(f"Employee {name} not found.")
+
+
+        abcdefghijklmnopqrstuvwxyz
